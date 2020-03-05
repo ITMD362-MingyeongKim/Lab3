@@ -246,13 +246,6 @@ body{
     background-color: #ece6cc;
 }
 
-form{
-    border: 2px double;
-    border-radius: 5px;
-    padding: 10px;
-    margin: auto;
-}
-
 h1{
     font-family: 'Anton', sans-serif;
     font-size: 200%;
@@ -269,25 +262,13 @@ p{
     margin: 10px;
 }
 
-label {
-    display: block;
-    line-height: normal;
-}
 
-li{
-    margin: 0;
-    font-family: 'Fjalla One', sans-serif;
-}
 
 input[type="email"]{
 	background-color: #d3d3d3;
 
 }
 
-input[type="submit"]{
-	background-color: #d3d3d3;
-
-}
 
 label {
   display: block;
