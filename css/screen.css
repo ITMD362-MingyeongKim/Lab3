@@ -68,7 +68,7 @@ textarea {
   text-align: center;
   font-family: 'Fjalla One', sans-serif; /* 1 */
   font-size: 100%; /* 1 */
-  line-height: 1.15; /* 1 */
+  line-height: 3; /* 1 */
   margin: 0; /* 2 */
 }
 
@@ -260,7 +260,7 @@ p{
     font-family: 'Fjalla One', sans-serif;
     font-size: 100%;
     text-align: center;
-    line-height: normal;
+    line-height: 2;
     margin: 10px;
 }
 
