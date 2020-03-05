@@ -72,6 +72,48 @@ textarea {
   margin: 2; /* 2 */
 }
 
+html {
+  font-size: 1.375em; /* 22px */
+  line-height: 1.182em; /* 26px / ~ 120% */
+  padding: 1.182em; /* 26px / ~ 120% */
+  text-align: center;
+  text-rendering: optimizeLegibility;
+}
+
+body{
+    background-color: #ece6cc;
+}
+
+form{
+    padding: 10px;
+    margin: 10px;
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 200%;
+    text-align: center;
+    line-height: normal;
+    margin: 10px;
+}
+
+p{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 100%;
+    text-align: center;
+    line-height: 2;
+    margin: 10px;
+}
+li{
+	line-height: 2;
+}
+
+input[type="email"]{
+	background-color: #d3d3d3;
+	line-height: 2;
+
+}
+
 /**
  * Show the overflow in IE.
  * 1. Show the overflow in Edge.
@@ -235,48 +277,6 @@ img, audio, video {
   Major Sixth Modular Scale:
   http://www.modularscale.com/?22&px&1.667&web&text
 */
-
-html {
-  font-size: 1.375em; /* 22px */
-  line-height: 1.182em; /* 26px / ~ 120% */
-  padding: 1.182em; /* 26px / ~ 120% */
-  text-align: center;
-  text-rendering: optimizeLegibility;
-}
-
-body{
-    background-color: #ece6cc;
-}
-
-form{
-    padding: 10px;
-    margin: 10px;
-}
-
-h1{
-    font-family: 'Anton', sans-serif;
-    font-size: 200%;
-    text-align: center;
-    line-height: normal;
-    margin: 10px;
-}
-
-p{
-    font-family: 'Fjalla One', sans-serif;
-    font-size: 100%;
-    text-align: center;
-    line-height: 2;
-    margin: 10px;
-}
-li{
-	line-height: 2;
-}
-
-input[type="email"]{
-	background-color: #d3d3d3;
-	line-height: 2;
-
-}
 
 
 label {
